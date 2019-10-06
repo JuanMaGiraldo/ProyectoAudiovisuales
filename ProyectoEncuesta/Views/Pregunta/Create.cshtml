@@ -1,0 +1,56 @@
+﻿@model ProyectoEncuesta.Models.PreguntaModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>PreguntaModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group" style="display:none;">
+                <label asp-for="IdPregunta" class="control-label"></label>
+                <input asp-for="IdPregunta" class="form-control" />
+                <span asp-validation-for="IdPregunta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Pregunta principal:</label>
+                <label asp-for="IdPreguntaPrincipal" class="control-label" style="display:none;"></label>
+                @Html.DropDownList("IdPreguntaPrincipal",
+                  ViewBag.PreguntaList,
+                  "",
+                  new { @class = "form-control" })
+                <span asp-validation-for="IdPreguntaPrincipal" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Enunciado" class="control-label"></label>
+                <input asp-for="Enunciado" class="form-control" />
+                <span asp-validation-for="Enunciado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Tipo</label>
+                <label asp-for="IdTipo" class="control-label" style="display:none;"></label>
+                @Html.DropDownList("IdTipo",
+                   ViewBag.TipoList,
+                   "",
+                   new { @class = "form-control" })
+                <span asp-validation-for="IdTipo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary btn-lg" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
