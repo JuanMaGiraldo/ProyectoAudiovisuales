@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juan Manuel\\Desktop\\ProyectoEncuesta\\Conexion\\Conexion.csproj": {}
+    "C:\\Users\\Sergio\\Dropbox\\Trabajos U\\2019 - II\\Sw2\\Audiovisuales\\ProyectoAudiovisuales\\Conexion\\Conexion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juan Manuel\\Desktop\\ProyectoEncuesta\\Conexion\\Conexion.csproj": {
+    "C:\\Users\\Sergio\\Dropbox\\Trabajos U\\2019 - II\\Sw2\\Audiovisuales\\ProyectoAudiovisuales\\Conexion\\Conexion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Manuel\\Desktop\\ProyectoEncuesta\\Conexion\\Conexion.csproj",
+        "projectUniqueName": "C:\\Users\\Sergio\\Dropbox\\Trabajos U\\2019 - II\\Sw2\\Audiovisuales\\ProyectoAudiovisuales\\Conexion\\Conexion.csproj",
         "projectName": "Conexion",
-        "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\ProyectoEncuesta\\Conexion\\Conexion.csproj",
-        "packagesPath": "C:\\Users\\Juan Manuel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Manuel\\Desktop\\ProyectoEncuesta\\Conexion\\obj\\",
+        "projectPath": "C:\\Users\\Sergio\\Dropbox\\Trabajos U\\2019 - II\\Sw2\\Audiovisuales\\ProyectoAudiovisuales\\Conexion\\Conexion.csproj",
+        "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sergio\\Dropbox\\Trabajos U\\2019 - II\\Sw2\\Audiovisuales\\ProyectoAudiovisuales\\Conexion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Juan Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -49,10 +51,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

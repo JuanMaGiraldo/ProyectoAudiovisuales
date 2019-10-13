@@ -1,0 +1,4 @@
+C:\Users\Sergio\Dropbox\Trabajos U\2019 - II\Sw2\Audiovisuales\ProyectoAudiovisuales\Conexion\obj\Debug\netstandard2.0\Conexion.csprojAssemblyReference.cache
+C:\Users\Sergio\Dropbox\Trabajos U\2019 - II\Sw2\Audiovisuales\ProyectoAudiovisuales\Conexion\obj\Debug\netstandard2.0\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Dropbox\Trabajos U\2019 - II\Sw2\Audiovisuales\ProyectoAudiovisuales\Conexion\obj\Debug\netstandard2.0\Conexion.AssemblyInfoInputs.cache
+C:\Users\Sergio\Dropbox\Trabajos U\2019 - II\Sw2\Audiovisuales\ProyectoAudiovisuales\Conexion\obj\Debug\netstandard2.0\Conexion.AssemblyInfo.cs

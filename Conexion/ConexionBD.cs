@@ -11,9 +11,12 @@ namespace Conexion
     ///</summary>
     public class ConexionBD
     {
+        
         public string ruta = "Data Source=DESKTOP-0LUP8FU;Initial Catalog=Encuesta;Integrated Security=True;";
+        //public string ruta = "Data Source=SERGIO-PC\\SQLEXPRESS;Initial Catalog=Encuesta;Integrated Security=True;";
         private string NombreTabla;
         private string[] NombreCampos;
+        private SqlConnection cd;
         private SqlConnection cn;
 
         ///<summary>

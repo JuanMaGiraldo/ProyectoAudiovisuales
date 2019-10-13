@@ -45,3 +45,11 @@ C:\Users\Juan Manuel\Desktop\ProyectoEncuesta\ProyectoEncuesta\obj\Debug\netcore
 C:\Users\Juan Manuel\Desktop\ProyectoEncuesta\ProyectoEncuesta\obj\Debug\netcoreapp2.1\Razor\Views\Cancion\List.g.cshtml.cs
 C:\Users\Juan Manuel\Desktop\ProyectoEncuesta\ProyectoEncuesta\obj\Debug\netcoreapp2.1\Razor\Views\Cancion\Create.g.cshtml.cs
 C:\Users\Juan Manuel\Desktop\ProyectoEncuesta\ProyectoEncuesta\obj\Debug\netcoreapp2.1\Razor\Views\Cancion\Edit.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Trabajos U\2019 - II\Sw2\Audiovisuales\ProyectoAudiovisuales\ProyectoEncuesta\obj\Debug\netcoreapp2.1\ProyectoEncuesta.dll
+C:\Users\Sergio\Dropbox\Trabajos U\2019 - II\Sw2\Audiovisuales\ProyectoAudiovisuales\ProyectoEncuesta\obj\Debug\netcoreapp2.1\ProyectoEncuesta.pdb
+C:\Users\Sergio\Dropbox\Trabajos U\2019 - II\Sw2\Audiovisuales\ProyectoAudiovisuales\ProyectoEncuesta\obj\Debug\netcoreapp2.1\ProyectoEncuesta.csprojAssemblyReference.cache
+C:\Users\Sergio\Dropbox\Trabajos U\2019 - II\Sw2\Audiovisuales\ProyectoAudiovisuales\ProyectoEncuesta\obj\Debug\netcoreapp2.1\ProyectoEncuesta.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Dropbox\Trabajos U\2019 - II\Sw2\Audiovisuales\ProyectoAudiovisuales\ProyectoEncuesta\obj\Debug\netcoreapp2.1\ProyectoEncuesta.RazorAssemblyInfo.cache
+C:\Users\Sergio\Dropbox\Trabajos U\2019 - II\Sw2\Audiovisuales\ProyectoAudiovisuales\ProyectoEncuesta\obj\Debug\netcoreapp2.1\ProyectoEncuesta.RazorAssemblyInfo.cs
+C:\Users\Sergio\Dropbox\Trabajos U\2019 - II\Sw2\Audiovisuales\ProyectoAudiovisuales\ProyectoEncuesta\obj\Debug\netcoreapp2.1\ProyectoEncuesta.AssemblyInfoInputs.cache
+C:\Users\Sergio\Dropbox\Trabajos U\2019 - II\Sw2\Audiovisuales\ProyectoAudiovisuales\ProyectoEncuesta\obj\Debug\netcoreapp2.1\ProyectoEncuesta.AssemblyInfo.cs
